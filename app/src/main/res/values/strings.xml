@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Proverka1</string>
+    <string name="input_your_email">Input your Email</string>
+    <string name="input_your_password">Input your password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="fill_the_field">Fill the field</string>
+    <string name="passwords_not_match">Passwords does not each other</string>
 </resources>
