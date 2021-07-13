@@ -52,6 +52,6 @@
     </fragment>
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.example.proverka1.main.MainFragment"
+        android:name="com.example.proverka1.ui.main.MainFragment"
         android:label="MainFragment" />
 </navigation>

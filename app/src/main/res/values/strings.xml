@@ -7,4 +7,8 @@
     <string name="confirm_your_password">Confirm your password</string>
     <string name="fill_the_field">Fill the field</string>
     <string name="passwords_not_match">Passwords does not each other</string>
+    <string name="search">search</string>
+    <string name="home">home</string>
+    <string name="add_a_new_post">add a new post</string>
+    <string name="Profile">Profile</string>
 </resources>
