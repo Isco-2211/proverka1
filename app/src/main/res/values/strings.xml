@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Proverka1</string>
+    <string name="app_name">InstaPOS</string>
     <string name="input_your_email">Input your Email</string>
     <string name="input_your_password">Input your password</string>
     <string name="sign_in">Sign in</string>
@@ -11,4 +11,9 @@
     <string name="home">home</string>
     <string name="add_a_new_post">add a new post</string>
     <string name="Profile">Profile</string>
+    <string name="posts">Публикации</string>
+    <string name="followers">Подписчики</string>
+    <string name="following">Подписки</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="edit_profile_image">Изменить фото профиля</string>
 </resources>
