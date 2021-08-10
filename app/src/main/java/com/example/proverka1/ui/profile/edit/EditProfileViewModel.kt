@@ -35,8 +35,5 @@ class EditProfileViewModel(private val profileHelper: ProfileHelper) : ViewModel
                 mutableProfileEdit.value = Resource.error(it)
             }
         )
-
     }
-
-
 }
